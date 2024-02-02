@@ -1,0 +1,16 @@
+div {
+  width: 350px;
+}
+
+#orange-bg {
+  background: orange;
+}
+
+.red-text {
+  color: red;
+  font-weight: bold;
+}
+
+.underlined-text {
+  text-decoration: underline;
+}
